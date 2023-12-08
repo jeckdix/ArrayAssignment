@@ -1,0 +1,14 @@
+C:\Users\jidex\Code\ArrayAssignment\obj\Debug\net8.0\ArrayAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jidex\Code\ArrayAssignment\obj\Debug\net8.0\ArrayAssignment.AssemblyInfoInputs.cache
+C:\Users\jidex\Code\ArrayAssignment\obj\Debug\net8.0\ArrayAssignment.AssemblyInfo.cs
+C:\Users\jidex\Code\ArrayAssignment\obj\Debug\net8.0\ArrayAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jidex\Code\ArrayAssignment\bin\Debug\net8.0\ArrayAssignment.exe
+C:\Users\jidex\Code\ArrayAssignment\bin\Debug\net8.0\ArrayAssignment.deps.json
+C:\Users\jidex\Code\ArrayAssignment\bin\Debug\net8.0\ArrayAssignment.runtimeconfig.json
+C:\Users\jidex\Code\ArrayAssignment\bin\Debug\net8.0\ArrayAssignment.dll
+C:\Users\jidex\Code\ArrayAssignment\bin\Debug\net8.0\ArrayAssignment.pdb
+C:\Users\jidex\Code\ArrayAssignment\obj\Debug\net8.0\ArrayAssignment.dll
+C:\Users\jidex\Code\ArrayAssignment\obj\Debug\net8.0\refint\ArrayAssignment.dll
+C:\Users\jidex\Code\ArrayAssignment\obj\Debug\net8.0\ArrayAssignment.pdb
+C:\Users\jidex\Code\ArrayAssignment\obj\Debug\net8.0\ArrayAssignment.genruntimeconfig.cache
+C:\Users\jidex\Code\ArrayAssignment\obj\Debug\net8.0\ref\ArrayAssignment.dll
